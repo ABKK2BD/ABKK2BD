@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, my name is ABK
+#### PHP & WordPress Expert
+![PHP & WordPress Expert](https://www.facebook.com/photo/?fbid=1289571101454945&set=a.181937822218284)
 
-<!--
-**ABKK2BD/ABKK2BD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Here are some ideas to get you started:
+Skills: HTML/ CSS3/ PHP/ LARAVEL/ WORDPRESS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
